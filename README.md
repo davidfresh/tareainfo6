@@ -1,3 +1,3 @@
 # tareainfo6
-tienda gadgets
-tarea para mi clase
+Programa que simula una tienda gadgets.
+Hecho en python 2.7.6 
